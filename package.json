@@ -1,5 +1,5 @@
 {
-  "name": "aureli-redux",
+  "name": "aurelia-redux",
   "version": "1.0.0",
   "description": "Provides functionality for connecting a redux store to aurelia components",
   "main": "lib/index.js",
