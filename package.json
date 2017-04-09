@@ -8,6 +8,7 @@
   },
   "author": "Russell Seamer<russell.seamer@reyno.co.uk>",
   "license": "ISC",
+  "typings": "lib/aurelia-redux.d.ts",
   "devDependencies": {
     "aurelia-framework": "^1.1.2",
     "redux": "^3.6.0",
